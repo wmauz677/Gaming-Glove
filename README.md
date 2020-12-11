@@ -106,7 +106,7 @@ Source Control
 <!-- MARKDOWN LINKS & IMAGES -->
 [status-shield]: https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fwmauz677.github.io%2FMyCaddie-Web%2F
 [status-link]: https://wmauz677.github.io/MyCaddie-Web/
-[license-shield]: https://img.shields.io/github/license/wmauz677/mycaddie-web?color=red&style=for-the-badge
-[license-url]: https://github.com/wmauz677/MyCaddie-Web/blob/gh-pages/LICENSE
+[license-shield]: https://img.shields.io/github/license/wmauz677/Gaming-Glove?color=red&style=for-the-badge
+[license-url]: https://github.com/wmauz677/Gaming-Glove/blob/master/LICENSE
 [product-screenshot]: Images/glove.jpg
 [mauz-screenshot]: Images/mauz-screenshot.png
